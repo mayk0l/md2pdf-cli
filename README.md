@@ -37,9 +37,9 @@ El PDF se genera en el mismo directorio con el mismo nombre base.
 ## Ejemplo
 
 ```bash
-node cli.js ADR-0001-Token-Secure-Refactor.md
+node cli.js informe-integracion-pago.md
 ```
-Genera `ADR-0001-Token-Secure-Refactor.pdf`.
+Genera `informe-integracion-pago.pdf`.
 
 ## Requisitos
 - Node.js >= 14
